@@ -1,4 +1,4 @@
-# Writeup QRcode
+# Writeup DataMatrix
 
 ## Français
 Quand on se connecte sur le port de l'application, on voit apparaitre une suite de carré blanc et noir. Avec le nom du challenge et en s'aidant d'internet on trouve que c'est un code barre de type Data Matrix!
